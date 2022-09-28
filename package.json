@@ -1,0 +1,16 @@
+{
+  "name": "neovuesetup",
+  "version": "1.0.0",
+  "license": "MIT",
+  "source": "./index.html",
+  "scripts": {
+	  "start": "parcel",
+	  "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "vue": "^3.2.40"
+  }
+}
